@@ -1,0 +1,649 @@
+Carte	Personnage	Type	Vaisseau
+"""Avenger"""	Avenger	Pilote	TIE/vn Silencer
+"""Axe"""	Axe	Pilote	Chasseur Torrent V-19
+"""Backdraft"""	Backdraft	Pilote	Chasseur TIE/sf
+"""Blackout"""	Recoil	Pilote	TIE/vn Silencer
+"""Breach"""	Breach	Pilote	Bombardier TIE/se
+"""Chopper"" (Astromech)"	Chopper	Astromech	n/a
+"""Chopper"" (Équipage)"	Chopper	Équipage	n/a
+"""Chopper"" (Gauntlet)"	Chopper	Pilote	Chasseur Gauntlet
+"""Chopper"" (VCX-100)"	Chopper	Pilote	Cargo léger VCX-100
+C1-10P	Chopper	Astromech	n/a
+"""Contrail"""	Contrail	Pilote	V-wing de Classe Nimbus
+"""Deathfire"""	Deathfire	Pilote	Bombardier TIE/sa
+"""Dread"""	Dread	Pilote	Bombardier TIE/se
+"""Fives"""	Fives	Équipage	n/a
+"""Goji"""	Goji	Pilote	Y-Wing BTL-B
+"""Grudge"""	Grudge	Pilote	Bombardier TIE/se
+"""Hawk"" (Canonnière TABA/i)"	Hawk	Pilote	Canonnière TABA/i
+"""Hawk"" (Z-95 Clone)"	Hawk	Pilote	Chasseur de Têtes Z-95 Clone
+"""Hound"""	Hound	Pilote	Canonnière TABA/i
+"""Howlrunner"""	Howlrunner 	Pilote	Chasseur TIE/ln
+"""Jag"""	Jag	Pilote	Chasseur ARC-170
+"""Killer"""	Killer	Pilote	Chasseur de Têtes Z-95 Clone
+"""Klick"""	Klick	Pilote	V-wing de Classe Nimbus
+"""Longshot"""	Longshot	Pilote	Chasseur TIE/fo
+"""Midnight"""	Midnight	Pilote	Chasseur TIE/fo
+"""Nightfall"""	Nightfall	Pilote	Intercepteur Modifié TIE/wi Whisper
+"""Odd Ball"" (ARC-170)"	Odd Ball	Pilote	Chasseur ARC-170
+"""Odd Ball"" (Torrent V-19)"	Odd Ball	Pilote	Chasseur Torrent V-19
+"""Odd Ball"" (V-wing de Classe Nimbus)"	Odd Ball	Pilote	V-wing de Classe Nimbus
+"""Odd Ball"" (Y-Wing BTL-B)"	Odd Ball	Pilote	Y-Wing BTL-B
+"""Quickdraw"""	Quickdraw	Pilote	Chasseur TIE/sf
+"""Rampage"""	Rampage	Pilote	Tie/rb Lourd
+"""Recoil"""	Blackout	Pilote	TIE/vn Silencer
+"""Rush"""	Rush	Pilote	TIE/vn Silencer
+"""Scorch"" (Bombardier TIE/se)"	"Jad Bean “Scorch"""	Pilote	Bombardier TIE/se
+"""Scorch"" (Chasseur TIE/fo)"	"Jad Bean “Scorch"""	Pilote	Chasseur TIE/fo
+"""Scourge"" Skutu"	Skutu	Pilote	Chasseur TIE/ln
+"""Sinker"""	Sinker	Pilote	Chasseur ARC-170
+"""Static"""	Static	Pilote	Chasseur TIE/fo
+"""Swoop"""	Swoop	Pilote	Chasseur Torrent V-19
+"""Vizier"""	Vizier	Pilote	TIE Reaper
+"""Warthog"" (Canonnière TABA/i)"	Warthog	Pilote	Canonnière TABA/i
+"""Warthog"" (Z-95 Clone)"	Warthog	Pilote	Chasseur de Têtes Z-95 Clone
+"""Whirlwind"""	Whirlwind	Pilote	Intercepteur Modifié TIE/wi Whisper
+"""Zeb"" Orrelios (Chasseur TIE)"	Zeb Orrelios	Pilote	Chasseur TIE/ln
+"""Zeb"" Orrelios (Équipage)"	Zeb Orrelios	Équipage	n/a
+"""Zeb"" Orrelios (Navette d’Attaque)"	Zeb Orrelios	Pilote	Navette d’Attaque
+"""Zeb"" Orrelios (Sheathipede)"	Zeb Orrelios	Pilote	Navette de Classe Sheathipede
+“Boost”	Boost	Pilote	Chasseur de Têtes Z-95 Clone
+“Broadside”	Broadside	Pilote	Y-Wing BTL-B
+“Ember”	Ember	Pilote	Intercepteur TIE/ba
+“Holo”	Holo	Pilote	Intercepteur TIE/ba
+“Kickback”	Kickback	Pilote	Chasseur Torrent V-19
+“Matchstick”	Matchstick	Pilote	Y-Wing BTL-B
+“Mauler” Mithel	Mauler Mithel	Pilote	Chasseur TIE/ln
+"“Muse"""	Muse	Pilote	Chasseur TIE/fo
+“Night Beast”	Night Beast	Pilote	Chasseur TIE/ln
+"“Null"""	Null	Pilote	Chasseur TIE/fo
+“Tucker”	Tucker	Pilote	Chasseur Torrent V-19
+“Wampa”	Wampa	Pilote	Chasseur TIE/ln
+“Wolffe”	Wolffe	Pilote	Chasseur ARC-170
+“Wrath”	Wrath	Pilote	Intercepteur Modifié TIE/wi Whisper
+0-0-0	0-0-0	Équipage	n/a
+4-LOM (Équipage)	4-LOM	Équipage	n/a
+4-LOM (G1-A)	4-LOM	Pilote	Chasseur G1-A
+Aayla Secura (Équipage)	Aayla Secura	Équipage	n/a
+Aayla Secura (Eta-2)	Aayla Secura	Pilote	Actis Eta-2
+Aftab Ackbar	Aftab Ackbar	Pilote	Y-Wing BTA-NR2
+Agent Kallus	Alexsandr Kallus	Équipage	n/a
+Agent Terex (Équipage)	Agent Terex	Équipage	n/a
+Agent Terex (Navette Légère de Classe Xi)	Agent Terex	Pilote	Navette Légère de Classe Xi
+Ahhav	Ahhav	Pilote	Chasseur TIE/ln modifié
+Ahsoka Tano (A-Wing RZ-1)	Ahsoka Tano 	Pilote	A-Wing RZ-1
+Ahsoka Tano (Artilleur)	Ahsoka Tano 	Artilleur	n/a
+Ahsoka Tano (Delta-7)	Ahsoka Tano 	Pilote	Aethersprite Delta-7
+Ahsoka Tano (Equipage)	Ahsoka Tano 	Équipage	Aethersprite Delta-7
+Airen Cracken	Airen Cracken	Pilote	Chasseur de Têtes Z-95-AF4
+Alexsandr Kallus	Alexsandr Kallus	Pilote	Cargo léger VCX-100
+Amilyn Holdo	Amilyn Holdo	Équipage	n/a
+Amiral Ozzel	Amiral Ozzel	Équipage/Commandement	n/a
+Anakin Skywalker (Chasseur Royal Naboo N-1)	Anakin Skywalker	Pilote	Chasseur Royal Naboo N-1
+Anakin Skywalker (Delta-7)	Anakin Skywalker	Pilote	Aethersprite Delta-7
+Anakin Skywalker (Eta-2)	Anakin Skywalker	Pilote	Actis Eta-2
+Anakin Skywalker (Y-Wing BTL-B)	Anakin Skywalker	Pilote	Y-Wing BTL-B
+Anneau d'hyperpropulsion Syliure-31	n/a	HyperEspace	n/a
+AP-5	AP-5	Pilote	Navette de Classe Sheathipede
+Arliz Hadrassian	Arliz Hadrassian	Pilote	Y-wing BTL-A4
+Arvel Crynyd	Arvel Crynyd	Pilote	A-Wing RZ-1
+As de l’Escadron Gamma	Escadron Gamma	Pilote	Bombardier TIE/sa
+As de l’Escadron Noir	Escadron Noir (Empire)	Pilote	Chasseur TIE/ln
+As de l’Escadron Noir (X-Wing T-70)	Escadron Noir (Résistance)	Pilote	X-Wing T-70
+As de l’Escadron Omega	Escadron Omega	Pilote	Chasseur TIE/fo
+As de l’Escadron Onyx	Escadron Onyx	Pilote	Défenseur TIE/d
+As de l’Escadron Sabre	Escadron Sabre	Pilote	Intercepteur TIE/in
+As de l’Escadron Storm	Escadron Storm	Pilote	TIE Advanced x1
+As de la 709éme Légion	709éme Légion “Red Fury”	Pilote	Intercepteur Modifié TIE/wi Whisper
+As du Soleil Noir	Soleil Noir	Pilote	Chasseur Kihraxz
+Asajj Ventress (Commandement & Équipage)	Asajj Ventress	Équipage/Commandement	n/a
+Asajj Ventress (Lancer)	Asajj Ventress	Pilote	Appareil de Poursuite de Classe Lancer
+Azmorigan	Azmorigan	Équipage/Commandement	n/a
+Babu Frik	Babu Frik	Illégal	n/a
+Barriss Offee	Barriss Offee	Pilote	Aethersprite Delta-7
+Baze Malbus	Baze Malbus	Équipage	n/a
+BB-8 (Astromech)	BB-8	Astromech	n/a
+BB-8 (Module de Transport)	BB-8	Pilote	Module de Transport de la Résistance
+Ben Teene	Ben Teene	Pilote	Forteresse Stellaire MG-100
+Benthic Deux-Tubes	Benthic Deux-Tubes	Pilote	U-Wing UT-60D
+Berwer Kret	Berwer Kret	Pilote	Chasseur de Classe Nantex
+Biggs Darklighter	Biggs Darklighter	Pilote	X-Wing T-65
+Bistan	Bistan	Artilleur	n/a
+Andrasta	n/a	Titre	Patrouilleur de Classe Firespray
+Assailer	n/a	Titre	Corvette de Classe Raider
+Black One	n/a	Titre	X-Wing T-70
+Blood Crow	n/a	Titre	Croiseur de Classe Gozanti
+Bo-Katan Kryze (Équipage Rebelle Racailles)	Bo-Katan Kryze	Équipage	n/a
+Bo-Katan Kryze (Équipage République Séparatiste)	Bo-Katan Kryze	Équipage	n/a
+Bo-Katan Kryze (Gauntlet République)	Bo-Katan Kryze	Pilote	Chasseur Gauntlet
+Bo-Katan Kryze (Gauntlet Séparatistes)	Bo-Katan Kryze	Pilote	Chasseur Gauntlet
+Boba Fett (Artilleur)	Boba Fett	Artilleur	n/a
+Boba Fett (Équipage)	Boba Fett	Équipage	n/a
+Boba Fett (Firespray/Racailles)	Boba Fett	Pilote	Patrouilleur de Classe Firespray
+Boba Fett (Firespray/Séparatiste)	Boba Fett	Pilote	Patrouilleur de Classe Firespray
+Bodhi Rook	Bodhi Rook	Pilote	U-Wing UT-60D
+Bodica Wenj	Bodica Wenj	Pilote	Chasseur Fang
+Bombardier de l'Escadron Gris	Escadron Gris	Pilote	Y-wing BTL-A4
+Bombardier de l’Escadron Cobalt	Escadron Cobalt	Pilote	Forteresse Stellaire MG-100
+Bombardier de l’Escadron Rouge	Escadron Rouge	Pilote	Y-Wing BTL-B
+Bombe Électro-Protonique	n/a	Emport	n/a
+Bossk (Artilleur)	Bossk	Artilleur	n/a
+Bossk (YV-666)	Bossk	Pilote	Cargo léger YV-666
+Bossk (Z-95)	Bossk	Pilote	Chasseur de Têtes Z-95-AF4
+Braylen Stramm	Braylen Stramm	Pilote	B-Wing A/SF-01
+Bright Hope	n/a	Titre	Transport Moyen GR-75
+Broken Horn	n/a	Titre	Croiseur C-ROC
+BT-1 	BT-1 	Artilleur	n/a
+C-3PO (Équipage/Rebelle)	C-3PO	Équipage	n/a
+C-3PO (Équipage/Republique)	C-3PO	Équipage	n/a
+C-3PO (Équipage/Résistance)	C-3PO	Équipage	n/a
+C'ai Threnalli (X-Wing T-70)	C’ai Threnalli	Pilote	X-Wing T-70
+C’ai Threnalli (Y-Wing BTA-NR2)	C’ai Threnalli	Pilote	Y-Wing BTA-NR2
+Cad Bane (Chasseur de Classe Rogue Racaille)	Cad Bane	Pilote	Chasseur de Classe Rogue
+Cad Bane (Chasseur de Classe Rogue Séparatiste)	Cad Bane	Pilote	Chasseur de Classe Rogue
+Cad Bane (Équipage)	Cad Bane	Équipage	n/a
+Cadet de l’Escadron Epsilon	Escadron Epsilon	Pilote	Chasseur TIE/fo
+Canon Blaster Suspendu	n/a	Canon	X-Wing
+Capitaine Cardinal	Capitaine Cardinal	Pilote	Navette de Commandement de Classe Upsilon
+Capitaine Clone Rex	Capitaine Rex	Artilleur	n/a
+Capitaine Dobbs	Capitaine Benj Dobbs	Pilote	Défenseur TIE/d
+Capitaine Feroph	Capitaine Feroph	Pilote	TIE Reaper
+Capitaine Hark (Équipage)	Capitaine Hark	Équipage	n/a
+Capitaine Hark (Gauntlet)	Capitaine Hark	Pilote	Chasseur Gauntlet
+Capitaine Jonus	Capitaine Jonus	Pilote	Bombardier TIE/sa
+Capitaine Jostero	Capitaine Jostero	Pilote	Chasseur Kihraxz
+Capitaine Kagi	Capitaine Kagi	Pilote	Navette T-4a de Classe Lambda
+Capitaine Needa	Capitaine Needa	Équipage/Commandement	n/a
+Capitaine Nym	Capitaine Nym	Pilote	Bombardier Scurrg H-6
+Capitaine Oicunn	Barrow Oicunn	Pilote	Décimateur VT-49
+Capitaine Phasma (Chasseur TIE/sf)	Capitaine Phasma	Pilote	Chasseur TIE/sf
+Capitaine Phasma (Équipage)	Capitaine Phasma	Équipage	n/a
+Capitaine Rex	Capitaine Rex	Pilote	Chasseur TIE/ln
+Capitaine Sear	Rackham Sear	Pilote	Chasseur Belbullab-22
+Capitaine Seevor	Capitaine Seevor	Pilote	Chasseur TIE/ln modifié
+Carlist Rieekan	Carlist Rieekan	Équipage/Commandement	n/a
+Cassian Andor (Équipage)	Cassian Andor	Équipage	n/a
+Cassian Andor (U-Wing)	Cassian Andor	Pilote	U-Wing UT-60D
+Cat	Cat	Pilote	Forteresse Stellaire MG-100
+Chancelier Palpatine/Dark Sidious	Palpatine	Équipage	n/a
+Chertek	Chertek	Pilote	Chasseur de Classe Nantex
+Chevalier Jedi	Chevalier Jedi	Pilote	Aethersprite Delta-7
+Chewbacca (Cargo léger YT-1300 modifié)	Chewbacca	Pilote	Cargo léger YT-1300 modifié
+Chewbacca (Équipage/Racailles)	Chewbacca	Équipage	n/a
+Chewbacca (Équipage/Rebelle	Chewbacca	Équipage	n/a
+Chewbacca (YT-1300 Récupéré)	Chewbacca	Pilote	YT-1300 Récupéré
+Ciena Ree (Équipage)	Ciena Ree	Équipage	n/a
+Ciena Ree (Intercepteur TIE/in)	Ciena Ree	Pilote	Intercepteur TIE/in
+Cikatro Vizago	Cikatro Vizago	Équipage	n/a
+Colonel Jendon	Colonel Jendon	Pilote	Navette T-4a de Classe Lambda
+Colonel Vessery	Colonel Vessery	Pilote	Défenseur TIE/d
+Commandant Clone Cody	Commandant Clone Cody	Artilleur	n/a
+Commandant Goran	Commandant Goran	Pilote	Intercepteur TIE/in
+Commandant Malarus (Chasseur TIE/fo)	Commandante Malarus	Pilote	Chasseur TIE/fo
+Commandant Malarus (Équipage)	Commandante Malarus	Équipage	n/a
+Commandant Malarus (Navette Légère de Classe Xi)	Commandante Malarus	Pilote	Navette Légère de Classe Xi
+Commandant Pyre	Commandant Pyre	Équipage	n/a
+Commandos des Nite Owl	Nite Owls	Équipage	n/a
+Compagnie Fantôme	Compagnie Fantôme	Équipage/Artilleur	n/a
+Comte Dooku (Équipage)	Comte Dooku	Équipage	n/a
+Comte Dooku (Infiltrateur Sith)	Comte Dooku	Pilote	Infiltrateur Sith
+Comtesse Ryad	Comtesse Ryad	Pilote	Défenseur TIE/d
+Contremaître Proach	Contremaître Proach	Pilote	Chasseur TIE/ln modifié
+Corus Kapellim	Corus Kapellim	Pilote	Y-Wing BTA-NR2
+Corvus	n/a	Titre	Corvette de Classe Raider
+Dauntless	n/a	Titre	Décimateur VT-49
+Dodonna's Pride	n/a	Titre	Corvette Corellienne CR90
+Cova Nell	Cova Nell	Pilote	Transport de la Résistance
+Dace Bonearm	Dace Bonearm	Pilote	Cargo léger HWK-290
+Dark Maul	Maul	Pilote	Infiltrateur Sith
+Dark Vador (Défenseur TIE/d)	Dark Vador	Pilote	Défenseur TIE/d
+Dark Vador (Équipage)	Dark Vador	Équipage	n/a
+Dark Vador (TIE Advanced x1)	Dark Vador	Pilote	TIE Advanced x1
+Death Troopers	Death Troopers	Équipage/Équipage	n/a
+Del Meeko	Del Meeko	Pilote	Chasseur TIE/ln
+Dengar (Artilleur)	Dengar	Artilleur	n/a
+Dengar (Jumpmaster)	Dengar	Pilote	JumpMaster 5000
+Derek Klivian	Derek Klivian	Pilote	A-Wing RZ-1
+Dineé Ellberger	Dineé Ellberger	Pilote	Chasseur Royal Naboo N-1
+Directeur Krennic	Directeur Krennic	Équipage	n/a
+Dirk Ullodin	Dirk Ullodin	Pilote	Chasseur Fang
+Drea Renthal	Drea Renthal	Pilote	Y-wing BTL-A4
+DT-798 (Artilleur)	Jace Rucklin	Artilleur	n/a
+Dutch Vander	Dutch Vander	Pilote	Y-wing BTL-A4
+Éclaireur de l'escadron Reaper	Escadron Reaper	Pilote	Chasseur de Têtes Z-95 Clone
+Éclaireur de l’Escadron Bleu	Escadron Bleu (Alliance Rebelle)	Pilote	U-Wing UT-60D
+Edon Kappehl	Edon Kappehl	Pilote	Forteresse Stellaire MG-100
+Edrio Deux-Tubes	Edrio Deux-Tubes	Pilote	X-Wing T-65
+Élite du Premier Ordre	n/a	Commandement	n/a
+Ello Asty	Ello Asty	Pilote	X-Wing T-70
+Emon Azzameen	Emon Azzameen	Pilote	Patrouilleur de Classe Firespray
+Empereur Palpatine	Palpatine	Équipage	n/a
+Encerclement Marg Sabl	n/a	Talent	n/a
+Escadre de l’Ombre	n/a	Commandement	n/a
+Escadron Phoenix	n/a	Commandement	n/a
+Escorte de l'Escadron Bleu	Escadron Bleu (Alliance Rebelle)	Pilote	X-Wing T-65
+Escorte de l’Escadron Shadow	Escadron Shadow	Pilote	V-wing de Classe Nimbus
+Evaan Verlaine	Evaan Verlaine	Pilote	Y-wing BTL-A4
+Exécuteur Magna Garde	Magna Garde	Pilote	Chasseur de Classe Rogue
+Expert de l’Escadron Omega	Escadron Omega	Pilote	Chasseur TIE/sf
+Expert de l’Escadron Rouge	Escadron Rouge (Résistance)	Pilote	X-Wing T-70
+Expert de l’Escadron Vert	Escadron Vert	Pilote	A-Wing RZ-2
+Extrémiste de la Red Fury	709éme Légion “Red Fury”	Pilote	Intercepteur Modifié TIE/wi Whisper
+Ezra Bridger (Chasseur TIE)	Ezra Bridger	Pilote	Chasseur TIE/ln
+Ezra Bridger (Navette d’Attaque)	Ezra Bridger	Pilote	Navette d’Attaque
+Ezra Bridger (Sheathipede)	Ezra Bridger	Pilote	Navette de Classe Sheathipede
+Faucon Millenium	n/a	Titre	YT-1300 personnalisé
+Faucon Millenium de Lando	n/a	Titre	Cargo léger YT-1300 modifié
+Faucon Millenium de Rey	n/a	Titre	YT-1300 Récupéré
+Fenn Rau (Chasseur Fang Racailles)	Fenn Rau	Pilote	Chasseur Fang
+Fenn Rau (Chasseur Fang Rebelle)	Fenn Rau	Pilote	Chasseur Fang
+Fenn Rau (Équipage)	Fenn Rau	Équipage	n/a
+Fenn Rau (Sheathipede)	Fenn Rau	Pilote	Navette de Classe Sheathipede
+Finch Dallow	Finch Dallow	Pilote	Forteresse Stellaire MG-100
+Finn (Artilleur)	Finn	Artilleur	n/a
+Finn (Module de Transport)	Finn	Pilote	Module de Transport de la Résistance
+Fireball de Kaz	n/a	Titre	Fireball
+GA-97	GA-97	Équipage	n/a
+Gamut Key (Cargo léger HWK-290)	Gamut Key	Pilote	Cargo léger HWK-290
+Gamut Key (Équipage)	Gamut Key	Équipage	n/a
+Gar Saxon (Artilleur)	Gar Saxon	Artilleur	n/a
+Gar Saxon (Équipage)	Gar Saxon	Équipage	n/a
+Gar Saxon (Gauntlet)	Gar Saxon	Pilote	Chasseur Gauntlet
+Garde Royal Mandalorien	Garde Royal Mandalorien/Protecteurs	Pilote	Chasseur Fang
+Garven Dreis (ARC-170)	Garven Dreis	Pilote	Chasseur ARC-170
+Garven Dreis (X-Wing T-65)	Garven Dreis	Pilote	X-Wing T-65
+Général Grievous (Belbullab-22)	Général Grievous	Pilote	Chasseur Belbullab-22
+Général Grievous (Commandement & Équipage)	Général Grievous	Équipage/Commandement	n/a
+Général Grievous (Équipage)	Général Grievous	Équipage	n/a
+Général Hux	Général Hux	Équipage	n/a
+Général Jedi	Général Jedi	Pilote	Actis Eta-2
+Gauntlet	n/a	Titre	Chasseur Gauntlet
+Ghost	n/a	Titre	Cargo léger VCX-100
+Grappler	n/a	Titre	Vaisseau d'Assaut de Classe Trident
+Gideon Hask (Chasseur TIE/ln)	Gideon Hask	Pilote	Chasseur TIE/ln
+Gideon Hask (Intercepteur TIE/in)	Gideon Hask	Pilote	Intercepteur TIE/in
+Gideon Hask (Navette Légère de Classe Xi)	Gideon Hask	Pilote	Navette Légère de Classe Xi
+Gina Moonsong	Gina Moonsong	Pilote	B-Wing A/SF-01
+Glissade sur l'Arrière	n/a	Talent	X-Wing
+Gorgol	Gorgol	Pilote	Chasseur de Classe Nantex
+Grand Inquisiteur (Équipage)	Grand Inquisiteur	Équipage	n/a
+Grand Inquisiteur (TIE Advanced v1)	Grand Inquisiteur	Pilote	TIE Advanced v1
+Grand Moff Tarkin	Wilhuff Tarkin	Équipage	n/a
+Graz	Graz	Pilote	Chasseur Kihraxz
+Greedo	Greedo	Artilleur	n/a
+Greef Karga	Greef Karga	Équipage	n/a
+Greer Sonnel	Greer Sonnel	Pilote	A-Wing RZ-2
+Grogu/L’Enfant	Grogu/L’Enfant	Équipage	n/a
+Guerrier Amaxine	Guerrier Amaxine	Pilote	Y-wing BTL-A4
+Guerrier de la Death Watch	Death Watch	Pilote	Chasseur Gauntlet
+Guetteur de la Guilde Minière	Guilde Minière	Pilote	Chasseur TIE/ln modifié
+Han Solo (Artilleur/Racailles)	Han Solo	Artilleur	n/a
+Han Solo (Artilleur/Rebelle)	Han Solo	Artilleur	n/a
+Han Solo (Cargo léger YT-1300 modifié)	Han Solo	Pilote	Cargo léger YT-1300 modifié
+Han Solo (Équipage)	Han Solo	Équipage	n/a
+Han Solo (YT-1300 personnalisé)	Han Solo	Pilote	YT-1300 personnalisé
+Han Solo (YT-1300 Récupéré)	Han Solo	Pilote	YT-1300 Récupéré
+Heff Tobber	Heff Tobber	Pilote	U-Wing UT-60D
+Hera Syndulla (A-Wing RZ-1)	Hera Syndulla	Pilote	A-Wing RZ-1
+Hera Syndulla (B-Wing A/SF-01)	Hera Syndulla	Pilote	B-Wing A/SF-01
+Hera Syndulla (Équipage)	Hera Syndulla	Équipage	n/a
+Hera Syndulla (Navette d’Attaque)	Hera Syndulla	Pilote	Navette d’Attaque
+Hera Syndulla (VCX-100)	Hera Syndulla	Pilote	Cargo léger VCX-100
+Hondo Ohnaka (Commandement & Équipage)	Hondo Ohnaka	Équipage/Commandement	n/a
+Hondo Ohnaka (Équipage)	Hondo Ohnaka	Équipage	n/a
+Horton Salm	Horton Salm	Pilote	Y-wing BTL-A4
+Havoc	n/a	Titre	Bombardier Scurrg H-6
+Hound's Tooth	n/a	Titre	Cargo léger YV-666
+Hypercarburant Coaxium	n/a	Illégal	n/a
+Ibtisam	Ibtisam	Pilote	Chasseur ARC-170
+Iden Versio	Iden Versio	Pilote	Chasseur TIE/ln
+IG-101	IG-101	Pilote	Chasseur de Classe Rogue
+IG-102	IG-102	Pilote	Chasseur de Classe Rogue
+IG-11	IG-11	Pilote	Vaisseau d'Assaut ST-70
+IG-111	IG-111	Pilote	Chasseur de Classe Rogue
+IG-2000	n/a	Titre	Chasseur d’Assaut Aggressor
+Impetuous	n/a	Titre	Corvette de Classe Raider
+Insatiable Worrt	n/a	Titre	Croiseur C-ROC
+Instigator	n/a	Titre	Corvette de Classe Raider
+Jaina's Light	n/a	Titre	Corvette Corellienne CR90
+IG-88A	IG-88A	Pilote	Chasseur d’Assaut Aggressor
+IG-88B	IG-88B	Pilote	Chasseur d’Assaut Aggressor
+IG-88C	IG-88C	Pilote	Chasseur d’Assaut Aggressor
+IG-88D	IG-88D	Pilote	Chasseur d’Assaut Aggressor
+Inquisiteur	Inquisiteur	Pilote	TIE Advanced v1
+Jabba Le Hutt	Jabba Le Hutt	Équipage	n/a
+Jake Farrell	Jake Farrell	Pilote	A-Wing RZ-1
+Jan Dodonna	Jan Dodonna	Équipage/Commandement	n/a
+Jan Ors	Jan Ors	Pilote	Cargo léger HWK-290
+Jango Fett (Équipage)	Jango Fett	Équipage	n/a
+Jango Fett (Firespray)	Jango Fett	Pilote	Patrouilleur de Classe Firespray
+Jarek Yeager	Jarek Yeager	Pilote	Fireball
+Jaycris Tubbs	Jaycris Tubbs	Pilote	X-Wing T-70
+Jek Porkins	Jek Porkins	Pilote	X-Wing T-65
+Jessika Pava	Jessika Pava	Pilote	X-Wing T-70
+Joph Seastriker	Joph Seastriker	Pilote	X-Wing T-70
+Joy Rekkoff	Joy Rekkoff	Pilote	Chasseur Fang
+Jul Jerjerrod	Jul Jerjerrod	Pilote	Bombardier TIE/se
+Jyn Erso	Jyn Erso	Équipage	n/a
+K-2SO (Équipage)	K-2SO	Équipage	n/a
+K-2SO (U-Wing)	K-2SO	Pilote	U-Wing UT-60D
+K2-B4	K2-B4	Relais Tactique	n/a
+Kaa'to Leeachos	Kaa'to Leeachos	Pilote	Chasseur de Têtes Z-95-AF4
+Kad Solus	Kad Solus	Pilote	Chasseur Fang
+Kalani	Kalani	Relais Tactique	n/a
+Kanan Jarrus (Cargo léger HWK-290)	Kanan Jarrus	Pilote	Cargo léger HWK-290
+Kanan Jarrus (Équipage)	Kanan Jarrus	Équipage	n/a
+Kanan Jarrus (VCX-100)	Kanan Jarrus	Pilote	Cargo léger VCX-100
+Kare Kun	Kare Kun	Pilote	X-Wing T-70
+Kath Scarlet	Kath Scarlet	Pilote	Patrouilleur de Classe Firespray
+Kavil	Kavil	Pilote	Y-wing BTL-A4
+Kaydel Ko Connix	Kaydel Ko Connix	Équipage	n/a
+Kazuda Xiono	Kazuda Xiono	Pilote	Fireball
+Ketsu Onyo (Équipage)	Ketsu Onyo	Équipage	n/a
+Ketsu Onyo (Lancer)	Ketsu Onyo	Pilote	Appareil de Poursuite de Classe Lancer
+Kit Fisto	Kit Fisto	Équipage	n/a
+Korkie Kryze	Korkie Kryze	Équipage	n/a
+Korr Sella	Korr Sella	Équipage	n/a
+Koshka Frost	Koshka Frost	Pilote	Patrouilleur de Classe Firespray
+Kraken	Kraken	Relais Tactique	n/a
+Krassis Trelix	Krassis Trelix	Pilote	Patrouilleur de Classe Firespray
+Kuiil	Kuiil	Équipage	n/a
+Kullbee Sperado	Kullbee Sperado	Pilote	X-Wing T-65
+Kyle Katarn	Kyle Katarn	Pilote	Cargo léger HWK-290
+Kylo Ren (Équipage)	Kylo Ren	Équipage	n/a
+Kylo Ren (Intercepteur Modifié TIE/wi Whisper)	Kylo Ren	Pilote	Intercepteur Modifié TIE/wi Whisper
+Kylo Ren (TIE Silencer)	Kylo Ren	Pilote	TIE/vn Silencer
+L'ulo L'ampar	L'ulo L'ampar	Pilote	A-Wing RZ-2
+L3-37 (Équipage)	L3-37	Équipage	n/a
+L3-37 (Vaisseau de secours)	L3-37	Pilote	Vaisseau de Secours
+L3-37 (YT-1300 personnalisé)	L3-37	Pilote	YT-1300 personnalisé
+La Septième Sœur (Équipage)	La Septième Sœur	Équipage	n/a
+La Septième Sœur (TIE Advanced v1)	La Septième Sœur	Pilote	TIE Advanced v1
+Lando Calrissian (Cargo léger YT-1300 modifié)	Lando Calrissian	Pilote	Cargo léger YT-1300 modifié
+Lando Calrissian (Équipage/Racailles)	Lando Calrissian	Équipage	n/a
+Lando Calrissian (Équipage/Rebelle)	Lando Calrissian	Équipage	n/a
+Lando Calrissian (Vaisseau de secours)	Lando Calrissian	Pilote	Vaisseau de Secours
+Lando Calrissian (YT-1300 personnalisé)	Lando Calrissian	Pilote	YT-1300 personnalisé
+Larma D’Acy	Larma D’Acy	Équipage	n/a
+Latts Razzi (Équipage)	Latts Razzi	Équipage	n/a
+Latts Razzi (YV-666)	Latts Razzi	Pilote	Cargo léger YV-666
+Le Cinquième Frère (Artilleur)	Le Cinquième Frère	Équipage	n/a
+Le Cinquième Frère (TIE Advanced v1)	Le Cinquième Frère	Pilote	TIE Advanced v1
+Le Mandalorien (Équipage)	Din Djarin	Équipage	n/a
+Le Mandalorien (Vaisseau d'Assaut ST-70)	Din Djarin	Pilote	Vaisseau d'Assaut ST-70
+Leema Kai	Leema Kai	Pilote	Y-wing BTL-A4
+Leevan Tenza	Leevan Tenza	Pilote	X-Wing T-65
+Lega Fossang	Lega Fossang	Pilote	Y-Wing BTA-NR2
+Leia Organa (Équipage/Rebelle)	Leia Organa	Équipage	n/a
+Leia Organa (Équipage/Résistance)	Leia Organa	Équipage	n/a
+Leia Organa (YT-1300 Modifié)	Leia Organa	Pilote	Cargo léger YT-1300 modifié
+Libérateur Nite Owl	Nite Owl	Pilote	Chasseur Gauntlet
+Liberator	n/a	Titre	Corvette Corellienne CR90
+Luminous	n/a	Titre	Transport Moyen GR-75
+Lieutenant Bastian	Lieutenant Bastian	Pilote	X-Wing T-70
+Lieutenant Blount	Lieutenant Blount	Pilote	Chasseur de Têtes Z-95-AF4
+Lieutenant Dormitz	Lieutenant Dormitz	Pilote	Navette de Commandement de Classe Upsilon
+Lieutenant LeHuse	Lieutenant LeHuse	Pilote	Chasseur TIE/sf
+Lieutenant Lorrir	Lieutenant Lorrir	Pilote	Intercepteur TIE/in
+Lieutenant Rivas	Lieutenant Rivas	Pilote	Chasseur TIE/fo
+Lieutenant Sai	Lieutenant Sai	Pilote	Navette T-4a de Classe Lambda
+Lieutenant Tavson	Lieutenant Tavson	Pilote	Navette de Commandement de Classe Upsilon
+Lowhhrick	Lowhhrick	Pilote	Canonnière Auzituck
+Luke Skywalker (Artilleur)	Luke Skywalker	Artilleur	n/a
+Luke Skywalker (X-Wing T-65)	Luke Skywalker	Pilote	X-Wing T-65
+Luminara Unduli	Luminara Unduli	Pilote	Aethersprite Delta-7
+Lytan Dree (TIE/rb Lourd) 	Lytan Dree	Pilote	Tie/rb Lourd
+Maarek Stele	Maarek Stele	Pilote	TIE Advanced x1
+Mace Windu	Mace Windu	Pilote	Aethersprite Delta-7
+Magva Yarro (Équipage)	Magva Yarro	Équipage	n/a
+Magva Yarro (U-Wing)	Magva Yarro	Pilote	U-Wing UT-60D
+Major Rhymer	Major Rhymer	Pilote	Bombardier TIE/sa
+Major Stridan	Major Stridan	Pilote	Navette de Commandement de Classe Upsilon
+Major Vermeil	Major Vermeil	Pilote	TIE Reaper
+Major Vonreg	Major Vonreg	Pilote	Intercepteur TIE/ba
+Manaroo	Manaroo	Pilote	JumpMaster 5000
+Mar Tuuk	Mar Tuuk	Équipage/Commandement	n/a
+Maul (Équipage)	Maul	Équipage	n/a
+Maul (Équipage/Équipage)	Maul	Équipage	n/a
+Maul (Gauntlet Racailles)	Maul	Pilote	Chasseur Gauntlet
+Marauder	n/a	Titre	Patrouilleur de Classe Firespray
+Merchant One	n/a	Titre	Croiseur C-ROC
+Merl Cobben	Merl Cobben	Pilote	A-Wing RZ-2
+Migs Mayfeld	Migs Mayfeld	Artilleur	n/a
+Ministre Tua	Ministre Tua	Équipage	n/a
+Missiles Discorde/Nuée De Droïdes Buzz	n/a	Missile/Engin Distant	n/a
+Mist Hunter	n/a	Titre	Chasseur G1-A
+Moldy Crow	n/a	Titre	Cargo léger HWK-290
+Nautolan's Revenge	n/a	Titre	Vaisseau d'Assaut de Classe Trident
+Neimoidian Grasp	n/a	Titre	Vaisseau d'Assaut de Classe Trident
+Nightbrother	n/a	Titre	Chasseur Gauntlet
+Moff Gideon	Moff Gideon	Pilote	Chasseur TIE/ln
+Moff Jerjerrod	Moff Jerjerrod	Équipage	n/a
+Moralo Eval	Moralo Eval	Pilote	Cargo léger YV-666
+Morna Kee	Morna Kee	Pilote	Décimateur VT-49
+N'dru Suhlak	N'dru Suhlak	Pilote	Chasseur de Têtes Z-95-AF4
+Nash Windrider	Nash Windrider	Pilote	Intercepteur TIE/in
+Netrem Pollard	Netrem Pollard	Pilote	B-Wing A/SF-01
+Nien Nunb (Équipage)	Nien Nunb	Équipage	n/a
+Nien Nunb (X-Wing T-70)	Nien Nunb	Pilote	X-Wing T-70
+Nimi Chireen	Nimi Chireen	Pilote	X-Wing T-70
+Nodin Chavdri	Nodin Chavdri	Pilote	Transport de la Résistance
+Nom Lumb (Chasseur de Classe Rogue)	Nom Lumb	Pilote	Chasseur de Classe Rogue
+Nom Lumb (JumpMaster 5000)	Nom Lumb	Pilote	JumpMaster 5000
+Norra Wexley (Y-Wing)	Norra Wexley	Pilote	Y-wing BTL-A4
+Norra Wexley (ARC-170)	Norra Wexley	Pilote	Chasseur ARC-170
+O-66	O-66	Pilote	Infiltrateur Sith
+Obi-Wan Kenobi (Delta-7)	Obi-Wan Kenobi	Pilote	Aethersprite Delta-7
+Obi-Wan Kenobi (Équipage)	Obi-Wan Kenobi	Équipage	n/a
+Obi-Wan Kenobi (Eta-2)	Obi-Wan Kenobi	Pilote	Actis Eta-2
+Officier de l’Escadron Bravo	Escadron Bravo	Pilote	Chasseur Royal Naboo N-1
+Officier de la Sécurité Jinata	Officier de la Sécurité Jinata	Pilote	Y-wing BTL-A4
+Officier Zuvio	Officier Zuvio	Pilote	Remorqueur Spatial de Transfert Quadrimoteur
+Opérateur du Collectif des Ombres	Collectif des Ombres	Pilote	Chasseur Gauntlet
+Outrider	n/a	Titre	Cargo léger YT-2400
+Padmé Amidala	Padmé Amidala	Pilote	Chasseur Royal Naboo N-1
+Padric	Padric	Pilote	Y-wing BTL-A4
+Paige Tico (Artilleur)	Paige Tico	Artilleur	n/a
+Paige Tico (Forteresse Stellaire MG-100)	Paige Tico	Pilote	Forteresse Stellaire MG-100
+Palob Godalhi	Palob Godalhi	Pilote	Cargo léger HWK-290
+Pammich Nerro Goode	Pammich Nerro Goode	Pilote	Transport de la Résistance
+Peli Motto	Peli Motto	Équipage	n/a
+Phantom	n/a	Titre	Navette d’Attaque/Navette de Classe Sheathipede
+Pilote de l'Escadron Skull	Escadron Skull	Pilote	Chasseur Fang
+Pilote de l’Escadron Alpha	Escadron Alpha	Pilote	Intercepteur TIE/in
+Pilote de l’Escadron Bandit	Escadron Bandit	Pilote	Chasseur de Têtes Z-95-AF4
+Pilote de l’Escadron Bleu	Escadron Bleu (Alliance Rebelle)	Pilote	B-Wing A/SF-01
+Pilote de l’Escadron Cimeterre	Escadron Cimeterre	Pilote	Bombardier TIE/sa
+Pilote de l’Escadron Delta	Escadron Delta	Pilote	Défenseur TIE/d
+Pilote de l’Escadron Obsidian	Escadron Obsidian	Pilote	Chasseur TIE/ln
+Pilote de l’Escadron Phœnix	Escadron Phœnix	Pilote	A-Wing RZ-1
+Pilote de l’Escadron Tala	Escadron Tala	Pilote	Chasseur de Têtes Z-95-AF4
+Pilote de l’Escadron Tempest	Escadron Tempest	Pilote	TIE Advanced x1
+Pilote de l’Escadron Vert	Escadron Vert	Pilote	A-Wing RZ-1
+Pilote de l’Escadron Zeta	Escadron Zeta	Pilote	Chasseur TIE/fo
+Pilote de la Base de Scarif	Pilote de la Base de Scarif	Pilote	TIE Reaper
+Pilote de la Résistance Mandalorienne	Résistance Mandalorienne	Pilote	Chasseur Gauntlet
+Pilote Débutant de l’Escadron Bleu	Escadron Bleu (Résistance)	Pilote	X-Wing T-70
+Pilote du 104ème Bataillon	104ème Bataillon	Pilote	Chasseur ARC-170
+Pilote du 212ème Bataillon	212ème Bataillon	Pilote	Canonnière TABA/i
+Pilote du Groupe Omicron	Groupe Omicron	Pilote	Navette T-4a de Classe Lambda
+Pirate Binayre	Pirate Binayre	Pilote	Chasseur de Têtes Z-95-AF4
+Plo Koon (Delta-7)	Plo Koon	Pilote	Aethersprite Delta-7
+Plo Koon (Équipage)	Plo Koon	Équipage	n/a
+Poe Dameron (Commandant de la Résistance)	Poe Dameron	Pilote	X-Wing T-70
+Poe Dameron (Tête Brûlée à la Gâchette Facile)	Poe Dameron	Pilote	X-Wing T-70
+Poe Dameron (YT-1300 Récupéré)	Poe Dameron	Pilote	YT-1300 Récupéré
+Pour Ta Rébellion / Pour l’Argent	n/a	Commandement	n/a
+Pre Vizsla (Équipage)	Pre Vizsla	Équipage	n/a
+Pre Vizsla (Gauntlet)	Pre Vizsla	Pilote	Chasseur Gauntlet
+Premier Ministre Almec/Almec, Marionette de Maul	Almec	Équipage	n/a
+Prime (Payée) / Prime (Recruté)	n/a	Commandement	n/a
+Promotion de l’Académie Skystrike	Promotion de l’Académie Skystrike	Commandement	n/a
+Prospecteur de la Guilde Minière	Guilde Minière	Pilote	Chasseur TIE/ln modifié
+Protecteur de l’Escadron Bleu	Escadron Bleu (République)	Pilote	Chasseur Torrent V-19
+Protecteur Magna Garde	Magna Garde	Pilote	Chasseur de Classe Rogue
+Prototype Blade Wing B6	n/a	Titre	B-Wing A/SF-01
+Punishing One	n/a	Titre	JumpMaster-5000
+PZ-4CO	PZ-4CO	Équipage	n/a
+Q9-0	Q9-0	Pilote	Vaisseau d'Assaut ST-70
+Qi'ra	Qi'ra	Équipage	n/a
+Quantum Storm	n/a	Titre	Transport Moyen GR-75
+R1-J5 (Astromech)	R1-J5	Astromech	n/a
+R1-J5 (Fireball)	R1-J5	Pilote	Fireball
+R2-D2 (Astromech/Rebelle)	R2-D2	Astromech	n/a
+R2-D2 (Astromech/République)	R2-D2	Astromech	n/a
+R2-D2 (Astromech/Résistance)	R2-D2	Astromech	n/a
+R2-D2 (Équipage)	R2-D2	Équipage	n/a
+R2-D2 (Y-Wing BTL-B)	R2-D2	Pilote	Y-Wing BTL-B
+Raymus Antilles	Raymus Antilles	Équipage/Commandement	n/a
+Razor Crest	n/a	Titre	Vaisseau d'Assaut ST-70
+Requiem	n/a	Titre	Croiseur de Classe Gozanti
+Recrue de l’Escadron Bleu	Escadron Bleu (Résistance)	Pilote	A-Wing RZ-2
+Revenant de Lok	Revenant de Lok	Pilote	Bombardier Scurrg H-6
+Rexler Brath	Rexler Brath	Pilote	Défenseur TIE/d
+Rey (Artilleur)	Rey	Artilleur	n/a
+Rey (YT-1300 Récupéré)	Rey	Pilote	YT-1300 Récupéré
+Ric Olié	Ric Olié	Pilote	Chasseur Royal Naboo N-1
+Riff Tamson	Riff Tamson	Équipage/Commandement	n/a
+Roark Garnet	Roark Garnet	Pilote	Cargo léger HWK-290
+Ronith Blario	Ronith Blario	Pilote	A-Wing RZ-2
+Rook Kast (Équipage)	Rook Kast	Équipage	n/a
+Rook Kast (Gauntlet)	Rook Kast	Pilote	Chasseur Gauntlet
+Rose Tico (Équipage)	Rose Tico	Équipage	n/a
+Rose Tico (Module de Transport)	Rose Tico	Pilote	Module de Transport de la Résistance
+Sabine Wren (A-Wing RZ-1)	Sabine Wren	Pilote	A-Wing RZ-1
+Sabine Wren (Artilleur)	Sabine Wren	Artilleur	n/a
+Sabine Wren (Chasseur TIE)	Sabine Wren	Pilote	Chasseur TIE/ln
+Sabine Wren (Commandement & Équipage)	Sabine Wren	Équipage/Commandement	n/a
+Sabine Wren (Équipage)	Sabine Wren	Équipage	n/a
+Sabine Wren (Lancer)	Sabine Wren	Pilote	Appareil de Poursuite de Classe Lancer
+Sabine Wren (Navette d’Attaque)	Sabine Wren	Pilote	Navette d’Attaque
+Saesee Tiin (Delta-7)	Saesee Tiin	Pilote	Aethersprite Delta-7
+Sarco Plank	Sarco Plank	Pilote	Remorqueur Spatial de Transfert Quadrimoteur
+Satine Kryze	Satine Kryze	Équipage	n/a
+Savage Opress	Savage Opress	Équipage	n/a
+Saw Gerrera (Équipage)	Saw Gerrera	Équipage	n/a
+Saw Gerrera (U-Wing)	Saw Gerrera	Pilote	U-Wing UT-60D
+Scimitar	n/a	Titre	Infiltrateur Sith
+Seftin Vanik	Seftin Vanik	Pilote	A-Wing RZ-2
+Sentinelle de l’Escadron Onyx	Escadron Onyx	Pilote	Tie/rb Lourd
+Sergent Thanisson (Équipage)	Sergent Thanisson	Équipage	n/a
+Sergent Thanisson (Upsilon)	Sergent Thanisson	Pilote	Navette de Commandement de Classe Upsilon
+Servante de Naboo	Servante de Naboo	Pilote	Chasseur Royal Naboo N-1
+Seyn Marana	Seyn Marana	Pilote	Chasseur TIE/ln
+Shaak Ti	Shaak Ti	Pilote	Actis Eta-2
+Shadow Caster	n/a	Titre	Appareil de Poursuite de Classe Lancer
+Shara Bey (A-Wing RZ-1)	Shara Bey	Pilote	A-Wing RZ-1
+Shara Bey (ARC-170)	Shara Bey	Pilote	Chasseur ARC-170
+Shasa Zaro	Shasa Zaro	Pilote	Y-Wing BTA-NR2
+Slave I (Racailles)	n/a	Titre	Patrouilleur de Classe Firespray
+Slave I (Séparatiste/Racailles)	n/a	Titre	Patrouilleur de Classe Firespray
+Sol Sixxa	Sol Sixxa	Pilote	Bombardier Scurrg H-6
+Soldat de l’Escadron Or	Escadron Or	Pilote	Chasseur Torrent V-19
+Soldat du Soleil Noir	Soleil Noir	Pilote	Chasseur de Têtes Z-95-AF4
+Soontir Fell	Soontir Fell	Pilote	Intercepteur TIE/in
+Soulless One	n/a	Titre	Chasseur Belbullab-22
+ST-321	n/a	Titre	Navette T-4a de Classe Lambda
+Suppressor	n/a	Titre	Croiseur de Classe Gozanti
+Sun Fac	Sun Fac	Pilote	Chasseur de Classe Nantex
+Super Commando Impérial	Super Commando Impérial	Pilote	Chasseur Gauntlet
+Superviseur Yushyn	Superviseur Yushyn	Pilote	Chasseur TIE/ln modifié
+Suprême Leader Snoke	Suprême Leader Snoke	Équipage/Équipage	n/a
+Suralinda Javos	Suralinda Javos	Pilote	A-Wing RZ-2
+Surcharge des Propulseurs	n/a	Modification	X-Wing T-70
+Survivant de l’Escadron Zeta	Escadron Zeta	Pilote	Chasseur TIE/sf
+Tal Merrik	Tal Merrik	Équipage	n/a
+Tallissan Lintra	Tallissan Lintra	Pilote	A-Wing RZ-2
+Talonbane Cobra	Talonbane Cobra	Pilote	Chasseur Kihraxz
+Tantive IV	n/a	Titre	Corvette Corellienne CR90
+Tápusk	Tápusk	Pilote	Cargo léger HWK-290
+Tel Trevura	Tel Trevura	Pilote	JumpMaster 5000
+Temmin Wexley (Black Deux)	Temmin Wexley	Pilote	X-Wing T-70
+Temmin Wexley (Véloce)	Temmin Wexley	Pilote	X-Wing T-70
+Ten Numb	Ten Numb	Pilote	B-Wing A/SF-01
+Teza Nasz	Teza Nasz	Pilote	Y-Wing BTA-NR2
+Thane Kyrell	Thane Kyrell	Pilote	X-Wing T-65
+Thunderstrike	n/a	Titre	Corvette Corellienne CR90
+TN-3465	TN-3465	Pilote	Chasseur TIE/fo
+Tobias Beckett	Tobias Beckett	Équipage	n/a
+Tomax Bren	Tomax Bren	Pilote	Bombardier TIE/sa
+Tor Phun	Tor Phun	Pilote	Chasseur Fang
+Torkil Mux	Torkil Mux	Pilote	Cargo léger HWK-290
+Toryn Farr	Toryn Farr	Équipage	n/a
+Trident	n/a	Titre	Vaisseau d'Assaut de Classe Trident
+Vector	n/a	Titre	Croiseur de Classe Gozanti
+Virago	n/a	Titre	Plateforme d’Attaque de Classe StarViper
+Tristan Wren	Tristan Wren	Équipage	n/a
+Turr Phennir	Turr Phennir	Pilote	Intercepteur TIE/in
+Tutélaire Gleb	Tutélaire Gleb	Équipage	n/a
+TV-94	TV-94	Relais Tactique	n/a
+Unkar Plutt (Équipage)	Unkar Plutt	Équipage	n/a
+Unkar Plutt (Quadrijet)	Unkar Plutt	Pilote	Remorqueur Spatial de Transfert Quadrimoteur
+Ursa Wren (Artilleur)	Ursa Wren	Artilleur	n/a
+Ursa Wren (Équipage)	Ursa Wren	Équipage	n/a
+Valen Rudor	Valen Rudor	Pilote	Chasseur TIE/ln
+Ved Foslo	Ved Foslo	Pilote	TIE Advanced x1
+Vennie	Vennie	Pilote	Forteresse Stellaire MG-100
+Vétéran de l'Escadron Or	Escadron Or	Pilote	Y-wing BTL-A4
+Vétéran de l'Escadron Rouge	Escadron Rouge	Pilote	X-Wing T-65
+Vétéran de l’Escadron Blade	Escadron Blade	Pilote	B-Wing A/SF-01
+Vétéran de l’Escadron Sept	Escadron Sept	Pilote	Chasseur ARC-170
+Vétéran de l’Escadron Shadow	Escadron Shadow	Pilote	Y-Wing BTL-B
+Vi Moradi	Vi Moradi	Pilote	Module de Transport de la Résistance
+Vice-Amiral Chiraneau	Vice-Amiral Chiraneau	Pilote	Décimateur VT-49
+Vieux Teroch	Vieux Teroch	Pilote	Chasseur Fang
+Viktor Hel (Chasseur de Classe Rogue)	Viktor Hel	Pilote	Chasseur de Classe Rogue
+Viktor Hel (Chasseur Kihraxz)	Viktor Hel	Pilote	Chasseur Kihraxz
+Volontaire du Clan Wren	Volontaire du Clan Wren	Pilote	Chasseur Fang
+Vult Skerris (Défenseur TIE/d)	Vult Skerris	Pilote	Défenseur TIE/d
+Vult Skerris (Intercepteur TIE/in)	Vult Skerris	Pilote	Intercepteur TIE/in
+Wat Tambor	Wat Tambor	Pilote	Chasseur Belbullab-22
+Wedge Antilles (A-Wing RZ-1)	Wedge Antilles	Pilote	A-Wing RZ-1
+Wedge Antilles (X-Wing T-65)	Wedge Antilles	Pilote	X-Wing T-65
+Wilhuff Tarkin (V-wing de Classe Nimbus)	Wilhuff Tarkin	Pilote	V-wing de Classe Nimbus
+Wilsa Teshlo	Wilsa Teshlo	Pilote	Y-Wing BTA-NR2
+Wolfpack	104ème Bataillon	Équipage/Artilleur	n/a
+Wrobie Tyce	Wrobie Tyce	Pilote	A-Wing RZ-2
+Wullffwarro	Wullffwarro	Pilote	Canonnière Auzituck
+Xanadu Blood	n/a	Titre	Chasseur de Classe Rogue
+Yoda (Équipage)	Yoda	Équipage	n/a
+Yoda (ETA-2)	Yoda	Pilote	Actis Eta-2
+Zam Wesell (Firespray)	Zam Wesell	Pilote	Patrouilleur de Classe Firespray
+Zam Wesell (Équipage)	Zam Wesell	Équipage	n/a
+Zari Bangel	Zari Bangel	Pilote	A-Wing RZ-2
+Zertik Strom	Zertik Strom	Pilote	TIE Advanced x1
+Zizi Tlo	Zizi Tlo	Pilote	A-Wing RZ-2
+Zorii Bliss	Zorii Bliss	Pilote	Y-Wing BTA-NR2
+Zuckuss (Équipage)	Zuckuss	Équipage	n/a
+Zuckuss (G1-A)	Zuckuss	Pilote	Chasseur G1-A
+Corran Horn	Corran Horn	Pilote	X-Wing T-65
+Wes Janson	Wes Janson	Pilote	X-Wing T-65
+Tycho Clechu	Tycho Clechu	Pilote	A-Wing RZ-1
+Keo Veneze	Keo Venezee 	Pilote	A-Wing RZ-1
+"""Pops"" Krail"	"""Pops"" Krail "	Pilote	Y-wing BTL-A4
+Flight Leader Ubbel	Ubbel 	Pilote	Tie/rb Lourd
+Juno Eclipse	Juno Eclipse	Pilote	TIE Advanced x1
+Seconde Soeur	Seconde Soeur 	Pilote	Intercepteur TIE/in
+Magna Tolvan	Magna Tolvan	Pilote	Chasseur TIE/ln
+Yrica Quell	Yrica Quell	Pilote	Chasseur TIE/ln
+Lando Calrissian (YT-1300 Récupéré)	Lando Calrissian	Pilote	YT-1300 Récupéré
+Venissa Doza	Venissa Doza	Pilote	X-Wing T-70
+Zay versio	Zay Versio	Pilote	X-Wing T-70
+Taka Jamoreesa	Taka Jamoreesa	Pilote	Transport de la Résistance
+Hondo Ohnaka (Firespray) 	Hondo Ohnaka	Pilote	Patrouilleur de Classe Firespray
+Durge (Rogue/racaille)	Durge	Pilote	Chasseur de Classe Rogue
+Dr Aphra	Dr Aphra	Pilote	Cargo léger YV-666
+Lapin	Lapin	Pilote	Chasseur TIE/ln modifié
+Volan Das	Volan Das	Pilote	Tri-Chasseur Droide
+Aura Sing	Aura Sing	Pilote	Patrouilleur de Classe Firespray
+Durge (Rogue/Séparatiste)	Durge	Pilote	Chasseur de Classe Rogue
+The Iron Assembler	The Iron Assembler	Pilote	Chasseur Droïde de Classe Vulture
+Lieutenant Galek	Lieutenant Galek	Pilote	Chasseur TIE/fo
+DT-798 (TIE/fo)	Jace Rucklin	Pilote	Chasseur TIE/fo
+Lin Gaavo	Lin Gaava	Pilote	Chasseur TIE/fo
+Agent Tierny	Agent Tierny	Pilote	Navette Légère de Classe Xi
+Adi Gallia	Adi Gallia	Pilote	Aethersprite Delta-7
+"""Sicko"""	“Sico”	Pilote	Canonnière TABA/i
+Kit Fisto (Actis Eta-2)	Kit Fisto	Pilote	Actis Eta-2
+"""Slammer"""	“Slammer”	Pilote	Chasseur Torrent V-19
+Gavyn Sykes	Gavyn Sykes	Pilote	Chasseur Royal Naboo N-1

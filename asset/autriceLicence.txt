@@ -1,0 +1,8 @@
+<address>
+Autrice/Made by : Genetix</br>
+Pronoms : Elle/iel She/They</br>
+Discord : Genetix (elle/iel)#6337</br>
+Twitter : @GenetixVideos</br>
+Licence : CC-BY-NC-SA </br>
+<img class="fit-picture" width=288 height=101 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/2880px-Cc-by-nc-sa_icon.svg.png" alt="CC-BY-NC-SA ">
+</address>

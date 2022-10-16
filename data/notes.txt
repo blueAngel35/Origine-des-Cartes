@@ -1,0 +1,22 @@
+1;Ce personnage ne pilote pas ce vaisseau en dehors de XWing
+2;Apparait dans une scène supprimée 
+3;Le sous titre de la carte fait référence au roman Phasma
+4;Les Chasseur Fangs Rebelles apparaissent dans la série Rebels mais seul Fenn Rau est Nommé
+5;Dans le le DLC Résurrection : la Sécurité Jinata est équipée de plusieurs vaisseaux notamment des chasseurs Naboo N1 dans le DLC mais aucun Y-Wing
+6;Le sous titre Véloce fait référence aux romans Riposte où il pilote un X-Wing T-65
+7;Sabé une des servantes pilote un N1 dans L’ombre de la Reine, mais la capacité fait surtout écho aux comportement des Servantes dans les Episodes 1 & 2
+8;Dans la BD TN-3465 pilote un chasseur TIE/sf
+9;Les Z-95 Clones de l’escadron Reaper sont mentionnés dans la série Résistance comme ayant combattu pendant la guerre des clones et la carte s’inspire de cette mention
+10;Dans la série Rebels il est mentionné que Chopper servait sur un Y-Wing de la République pendant la guerre des clones qui s’est écrasé sur Ryloth et la carte s’inspire de cette mention
+11;La carte fait référence au passé de Sabine avant la série Rebels mais qui est évoqué dans la série
+12;Autre apparition du personnage dans un role différent de celui qui apparait dans la carte
+13;Lytan Dree pilote d'autres vaisseaux
+14;Il dirige l’escadron Sabre qui lui apparait dans l’Episode 6
+15;Il est mentionné en tant que pilote de Navette de classe Theta dans l’Episode 3 de l’Empereur le sous titre de la carte y fait référence
+16;Le genre du personnages est alternativement défini comme masculin ou féminin
+17;Apparition postérieure à la publication de la carte
+18;Identification postérieure dans un livre, comics, livre de référence (Retcon)
+19;Présence non Confirmée officiellement
+20;Venissa Doza pilote un ancien X-Wing (probablement un X-Wing T-65) dans la série
+21;Taka Jamoreesa est non binaire mais iel est mégenré•e dans plusieurs traductions y compris la traduction française. Iel ne semble pas non plus piloter ce vaisseau
+22;Volan Das utilise un Tri Chasseur lourdement modifié
