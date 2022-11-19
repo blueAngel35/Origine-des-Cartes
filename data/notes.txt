@@ -20,3 +20,4 @@
 20;Venissa Doza pilote un ancien X-Wing (probablement un X-Wing T-65) dans la série
 21;Taka Jamoreesa est non binaire mais iel est mégenré•e dans plusieurs traductions y compris la traduction française. Iel ne semble pas non plus piloter ce vaisseau
 22;Volan Das utilise un Tri Chasseur lourdement modifié
+23;Iden Versio pilote un chasseur TIE/ln dans le livre

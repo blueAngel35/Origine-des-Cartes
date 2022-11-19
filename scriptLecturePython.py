@@ -16,12 +16,15 @@ maxH = 150
 maxW = 150
 
 # Noms de Fichiers en Entrée
-fileNameImages = "data/imagesDesMedias.tsv"
+fileNameImages = "asset/images/imagesDesMedias.tsv"
+
 fileNameMaster = "data/origineDesCartes.tsv"
 fileNameInfosCartes = "data/infosCartes.tsv"
 fileNameCartesParExtensions="data/repartitionCarteExtensions.tsv"
 fileNameNotes = "data/notes.txt"
-fileNameStyle = "asset/style.txt"
+
+fileNameStyleCartesParMedia = "asset/styleCartesParMedia.txt"
+fileNameStyleMediasParExtensions = "asset/styleMediasParExtensions.txt"
 fileNameAutriceLicence = "asset/autriceLicence.txt"
 
 #Noms des Fichiers de Sortie
@@ -29,12 +32,20 @@ fileNameCarteParMediaHtml = "cartesParMedia.html"
 fileNameMediaParExtensionHtml = "mediasParExtensions.html"
 
 # Elements à ajouter aux HTML
-styleFile = open(fileNameStyle, 'r')
-styleTableau = ""
-for line in styleFile:
-    styleTableau+=line
-styleFile.close()
+print("Lecture CSS")
+styleFileCarteParMedia = open(fileNameStyleCartesParMedia, 'r')
+styleCarteParMedia = ""
+for line in styleFileCarteParMedia:
+    styleCarteParMedia+=line
+styleFileCarteParMedia.close()
 
+styleFileMediaParExtension = open(fileNameStyleMediasParExtensions, 'r')
+styleMediaParExtension = ""
+for line in styleFileMediaParExtension:
+    styleMediaParExtension+=line
+styleFileMediaParExtension.close()
+
+print("Lecture Autrice")
 autriceLicenceFile = open(fileNameAutriceLicence, 'r')
 blocAutriceLicence = ""
 for line in autriceLicenceFile:
@@ -42,6 +53,7 @@ for line in autriceLicenceFile:
 autriceLicenceFile.close()
 
 # Tableau Master
+print("Lecture Tableau Master")
 tableauMaster = pandas.read_csv(fileNameMaster, sep ="\t", index_col=0,
                                 na_filter=True,keep_default_na=False,na_values="")
 
@@ -50,15 +62,18 @@ tableauMaster = pandas.read_csv(fileNameMaster, sep ="\t", index_col=0,
 tableauMaster = tableauMaster.fillna(False)
 
 # Tableau Cartes par Extension
+print("Lecture Tableau Cartes par Extension")
 tableauCartesParExtension = pandas.read_csv(fileNameCartesParExtensions, sep ="\t", index_col=0,
                                 na_filter=True,keep_default_na=False,na_values="")
 tableauCartesParExtension = tableauCartesParExtension.fillna(False)
 
 # Tableau Infos Cartes
+print("Lecture Tableau Infos Cartes")
 tableauInfosCartes = pandas.read_csv(fileNameInfosCartes, sep ="\t", index_col=0,na_filter=True,keep_default_na=False,na_values="")
 tableauInfosCartes = tableauInfosCartes.fillna(False)
 
 # Informations sur les cartes et personnages
+print("Informations sur les cartes et personnages")
 dictType = {}; dictPerso = {}; dictVaisseau = {};
 for index, row in tableauInfosCartes.iterrows():
     Personnage = row['Personnage']
@@ -70,6 +85,7 @@ for index, row in tableauInfosCartes.iterrows():
     dictVaisseau[Carte]=Vaisseau
     
 # Images des Medias
+print("Lecture Tableau Images des Medias")
 tableauImages = pandas.read_csv(fileNameImages, sep ="\t")
 dictImages = {}
 for index, row in tableauImages.iterrows():
@@ -78,6 +94,7 @@ for index, row in tableauImages.iterrows():
     dictImages[name]=url
 
 # Lecture des Notes
+print("Lecture des Notes")
 dictNotes = {}
 fileNotes = open(fileNameNotes, "r")
 for ligne in fileNotes : 
@@ -143,26 +160,36 @@ def getNote(nomCarte, media):
         return "null"
 
 # Tableau par media
+print("Organisation des URL Medias")
 dicoCarteParMedia= {}
 for col in tableauMaster :
     dicoCarteParMedia[col] = getPilotesParMedia(col)
           
 # Ecriture du Tableau par Media en HTML
+print("Ecriture du Tableau par Media en HTML")
 fileCarteParMediaHtml = open(fileNameCarteParMediaHtml, "w")
-fileCarteParMediaHtml.write('<!DOCTYPE html><html lang="'+lang+'">'+styleTableau+'<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n')
+fileCarteParMediaHtml.write('<!DOCTYPE html><html lang="'+lang+'">'+styleCarteParMedia+'<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n')
 fileCarteParMediaHtml.write('<table><tr><th>Media</th><th>Nombre de Cartes</th><th>Listes des Cartes</th></tr>\n')
-
+ 
+i = 0
+l = len(dicoCarteParMedia)
 for media in dicoCarteParMedia:
+    i=i+1
+    print(str(i)+"/"+str(l))
     liste = dicoCarteParMedia[media]
     listeHtml = ''
     for nomCarte in liste:
         listeHtml += (convNomCarte(nomCarte, media))+", \n"
+    listeHtml = listeHtml[:-4]
+    listeHtml = listeHtml+"\n"
     image = getImagesParMedia(media)
     fileCarteParMediaHtml.write('<tr><th>'+image+'</th><th>'+str(len(liste))+'</th><td>'+listeHtml+'</td></tr>\n')
-    
+     
 fileCarteParMediaHtml.write('</table></br>'+'\n')
 fileCarteParMediaHtml.write(blocAutriceLicence)
 fileCarteParMediaHtml.close()
+print("Ecriture du Tableau par Media en HTML Fin")
+ 
 
 # Tableau Medias par Extensions
 
@@ -189,11 +216,13 @@ for extension in tableauCartesParExtension :
                 
     dicoExtensions[extension]=dicoMediaCartes
           
-# Ecriture du Tableau par Media en HTML
+# Ecriture du Tableau Medias par Extensions en HTML
+print("Ecriture du Tableau Medias par Extensions en HTML")
 maxH = 150
 maxW = 150
 fileMediaParExtensionHtml = open(fileNameMediaParExtensionHtml, "w")
-fileMediaParExtensionHtml.write('<!DOCTYPE html><html lang="'+lang+'">'+styleTableau+'<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n')
+fileMediaParExtensionHtml.write('<!DOCTYPE html><html lang="'+lang+'">'+styleMediaParExtension)
+fileMediaParExtensionHtml.write('<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>\n')
 fileMediaParExtensionHtml.write('<table><tr><th>Extension</th><th>Listes des Medias</th></tr>\n')
 
 def convertListePilotesForHtml(listePersonnages):
@@ -220,8 +249,12 @@ def getImageMediaWithPilotList(media, listePersonnages):
     html += '<span class="tooltiptext">'+convertListePilotesForHtml(listePersonnages)+'</span>'
     html += '</div>'
     return htmlImage
-        
+    
+i = 0
+l = len(dicoExtensions)    
 for extension in dicoExtensions:
+    i=i+1
+    print(str(i)+"/"+str(l))
     liste = dicoExtensions[extension]
     listeHtml = ''
     for media in liste:
@@ -229,9 +262,10 @@ for extension in dicoExtensions:
         image = getImageMediaWithPilotList(media, listePilotesTmp)
         listeHtml += image#+", "
     #listeHtml = listeHtml.replace(",</br>",",")
-    
-    fileMediaParExtensionHtml.write('<tr><th>'+extension+'</th><td>'+listeHtml+'</td></tr>\n')
+    if len(listeHtml)>1:
+        fileMediaParExtensionHtml.write('<tr><th>'+extension+'</th><td>'+listeHtml+'</td></tr>\n')
     
 fileMediaParExtensionHtml.write('</table></br>'+'\n')
 fileMediaParExtensionHtml.write(blocAutriceLicence)
 fileMediaParExtensionHtml.close() 
+print("Ecriture du Tableau Medias par Extensions en HTML fini")
